@@ -1,0 +1,1 @@
+export const GET_LIVE_EVENTS = "GET_LIVE_EVENTS"
